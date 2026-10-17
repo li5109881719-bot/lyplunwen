@@ -1,0 +1,4 @@
+interface:
+  display_name: "LYP 论文 0→1"
+  short_description: "单一入口整合文献阅读、证据审计、版本登记、论文修订与投稿交付"
+  default_prompt: "使用 $lyplunwen 启动或继续这个论文项目，读取材料、版本登记与工作流状态，从第一个未通过的适用关卡推进。"
